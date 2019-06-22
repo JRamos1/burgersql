@@ -1,0 +1,20 @@
+* {
+  font-family: 'Lobster', cursive; 
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  margin-left: 40%;
+}
+
+li {
+  padding: 2px;
+  margin: 2px;
+}
+
+.center {
+  text-align: center;
+}
